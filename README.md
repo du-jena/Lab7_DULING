@@ -1,1 +1,2 @@
-# Lab7_DULING
+# JSPlatformer
+JS Platformer for DIG 3480C

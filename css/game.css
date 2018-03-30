@@ -1,0 +1,27 @@
+.background    { background-image: url("http://78.media.tumblr.com/a38f7cb314c5d86d9a9c95abd8da929d/tumblr_nln08cX1eY1qfpd3wo1_1280.gif");
+                 background-size: 1600px 475px;
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: #375788; }
+.wall          { background: #E5EAF5;   }
+.floater       { background-color: #883752; }
+
+.actor  { position: absolute;  }
+.coin   { background-image: url("http://rs64.pbsrc.com/albums/h190/SocialRetard911/Googlepages/Miscellaneous/Elemental/Fire/Fire_Animated_Text_Divider.gif~c200");
+          background-size: 12px 12px;}
+.player { background: #C70039; }
+
+.newactor { background-image: url("https://i.pinimg.com/originals/30/c2/02/30c202029579f2e46c019b53229c702c.gif");
+            background-size: 12px 12px;}
+
+.game {
+  overflow: hidden;
+  max-width: 600px;
+  max-height: 450px;
+  position: relative;
+}
+
+body {
+      background-color: #0B2354;
+}
